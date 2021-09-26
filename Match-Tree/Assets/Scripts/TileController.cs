@@ -4,15 +4,22 @@ using UnityEngine;
 
 public class TileController : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public int id;
+
+    private BoardManager board;
+    private SpriteRenderer render;
+
+    private void Awake()
     {
-        
+        board = BoardManager.Instance;
+        render = GetComponent<SpriteRenderer>();
     }
 
-    // Update is called once per frame
-    void Update()
+    public void ChangeId(int id, int x, int y)
     {
-        
+        render.sprite = board.tileTypes[id];
+        this.id = id;
+
+        name = "TILE_" + id + "("+ x +", " + y +")";
     }
 }
