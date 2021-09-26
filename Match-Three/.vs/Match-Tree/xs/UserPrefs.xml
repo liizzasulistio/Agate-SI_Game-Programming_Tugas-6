@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{9B3E5B8A-DA5C-2856-C749-9931ACF95FC1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ScoreManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BoardManager.cs" Line="26" Column="1" />
+      <File FileName="Assets/Scripts/TileController.cs" />
+      <File FileName="Assets/Scripts/GameFlowManager.cs" />
+      <File FileName="Assets/Scripts/ScoreManager.cs" Line="33" Column="56" />
+      <File FileName="Assets/Scripts/SoundManager.cs" />
+      <File FileName="Assets/Scripts/UIGameOver.cs" />
+      <File FileName="Assets/Scripts/UIScore.cs" />
+      <File FileName="Assets/Scripts/UITime.cs" />
+      <File FileName="Assets/Scripts/TimeManager.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0277d523-80bd-4ac5-b8a6-a15e7da49eae" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
