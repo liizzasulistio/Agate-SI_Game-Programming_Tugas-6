@@ -10,7 +10,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleExecutable</key>
-	<string>Match-Tree-Mac</string>
+	<string>Match-Three-Mac</string>
 	<key>CFBundleGetInfoString</key>
 	<string>Unity Player version 2018.3.3f1 (393bae82dbb8). (c) 2019 Unity Technologies ApS. All rights reserved.</string>
 	<key>CFBundleIconFile</key>

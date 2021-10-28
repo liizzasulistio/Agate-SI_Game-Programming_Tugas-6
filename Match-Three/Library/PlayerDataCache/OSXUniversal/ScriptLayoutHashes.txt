@@ -1,8 +1,8 @@
 OSXUniversal
 PlayerPath?
-/Users/liizzasulistio/Documents/Agate/Agate-SI_Game-Programming_Tugas-6/Game Build/Match-Tree-Mac.app
+/Users/liizzasulistio/Documents/Agate/Agate-SI_Game-Programming_Tugas-6/Game Build/Match-Three-Mac.app
 SceneListBegin?
-Assets/Main.unity
+Assets/Scenes/Main.unity
 SceneListEnd?
 ec1019012987014358086bf7769c0f1a Assembly-CSharp.dll:.BoardManager
 984dcc0ba3707b7691fbdca8ff508d28 Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
