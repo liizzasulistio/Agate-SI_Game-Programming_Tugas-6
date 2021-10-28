@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9B3E5B8A-DA5C-2856-C749-9931ACF95FC1}</ProjectGuid>
+    <ProjectGuid>{A98CE455-36B7-F48A-105C-9B99EF38055E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -47,7 +47,7 @@
   <PropertyGroup>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <UnityProjectGenerator>Unity/VSTU</UnityProjectGenerator>
-    <UnityProjectGeneratorVersion>2.8.3.0</UnityProjectGeneratorVersion>
+    <UnityProjectGeneratorVersion>2.10.2.0</UnityProjectGeneratorVersion>
     <UnityProjectType>Game:1</UnityProjectType>
     <UnityBuildTarget>StandaloneWindows64:19</UnityBuildTarget>
     <UnityVersion>2018.3.3f1</UnityVersion>
@@ -74,19 +74,19 @@
     <Compile Include="Assets\Scripts\UIScore.cs" />
     <Compile Include="Assets\Scripts\UITime.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/liizzasulistio/Documents/Agate/Agate-SI_Game-Programming_Tugas-6/Match-Tree/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/liizzasulistio/Documents/Agate/Agate-SI_Game-Programming_Tugas-6/Match-Three/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/liizzasulistio/Documents/Agate/Agate-SI_Game-Programming_Tugas-6/Match-Tree/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/liizzasulistio/Documents/Agate/Agate-SI_Game-Programming_Tugas-6/Match-Three/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>/Users/liizzasulistio/Documents/Agate/Agate-SI_Game-Programming_Tugas-6/Match-Tree/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>/Users/liizzasulistio/Documents/Agate/Agate-SI_Game-Programming_Tugas-6/Match-Three/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/liizzasulistio/Documents/Agate/Agate-SI_Game-Programming_Tugas-6/Match-Tree/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/liizzasulistio/Documents/Agate/Agate-SI_Game-Programming_Tugas-6/Match-Three/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>/Users/liizzasulistio/Documents/Agate/Agate-SI_Game-Programming_Tugas-6/Match-Tree/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>/Users/liizzasulistio/Documents/Agate/Agate-SI_Game-Programming_Tugas-6/Match-Three/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Hub/Editor/2018.3.3f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -290,13 +290,13 @@
       <HintPath>/Applications/Unity/Hub/Editor/2018.3.3f1/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>/Users/liizzasulistio/Documents/Agate/Agate-SI_Game-Programming_Tugas-6/Match-Tree/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>/Users/liizzasulistio/Documents/Agate/Agate-SI_Game-Programming_Tugas-6/Match-Three/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>/Users/liizzasulistio/Documents/Agate/Agate-SI_Game-Programming_Tugas-6/Match-Tree/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>/Users/liizzasulistio/Documents/Agate/Agate-SI_Game-Programming_Tugas-6/Match-Three/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>/Users/liizzasulistio/Documents/Agate/Agate-SI_Game-Programming_Tugas-6/Match-Tree/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>/Users/liizzasulistio/Documents/Agate/Agate-SI_Game-Programming_Tugas-6/Match-Three/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>/Applications/Unity/Hub/Editor/2018.3.3f1/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
